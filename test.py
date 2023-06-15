@@ -3,7 +3,7 @@ from tensorflow import keras
 
 IMAGE_SIZE = (180, 180)
 IMAGE_PATH = 'data/dandelion/dandelion.8684108_a85764b22d_n.jpg'
-MODEL_PATH = 'model/save_at_57.keras'
+MODEL_PATH = 'model/save_at_58.keras'
 
 model = keras.models.load_model(MODEL_PATH)
 
