@@ -1,0 +1,4 @@
+## exclude data and model folder
+backup/
+data/
+model/
